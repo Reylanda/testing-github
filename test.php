@@ -1,3 +1,4 @@
 <?php
 echo('test dari alfian');
-echo ("test dari yuda");
+echo("\n test dari yuda");
+echo("\n test dari rey");
